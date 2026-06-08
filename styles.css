@@ -1,6 +1,8 @@
 body {
     background-color: #d6c79e;
     color: #635844;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .header {
