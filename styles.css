@@ -25,6 +25,7 @@ ol {
     padding: 15px 0;
 }
 
-li {
+li,
+p {
     padding: 10px 0;
 }
